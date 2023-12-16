@@ -26,4 +26,4 @@
 | 개발 | 김도현 | Unity 모델 개발          |
 
 
-<a href="https://jaesimin0903.tistory.com/"><img src="https://img.shields.io/badge/Android-FF5E5B?style=for-the-badge&logo=Android&logoColor=white&link=(https://jaesimin0903.tistory.com/)"/></a>
+<a href="https://jaesimin0903.tistory.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white&link=(https://jaesimin0903.tistory.com/)"/></a>
