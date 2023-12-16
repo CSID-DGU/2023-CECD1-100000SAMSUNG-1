@@ -24,3 +24,6 @@
 | 개발 | 최재민 | Android 개발, Unity 개발 |
 | 개발 | 박민균 | 기능 설계                |
 | 개발 | 김도현 | Unity 모델 개발          |
+
+
+<a href="https://jaesimin0903.tistory.com/"><img src="https://img.shields.io/badge/Android-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white&link=(https://jaesimin0903.tistory.com/)"/></a>
